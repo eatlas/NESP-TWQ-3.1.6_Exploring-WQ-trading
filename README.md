@@ -12,6 +12,9 @@ content in cane, equipment cost and growers’ ‘transaction cost’ in engagin
 from public sources and the literature. Results are produced in the form of estimated supply curves for DIN credits from
 practice change in cane for the main Wet Tropics catchments.
 
+More information on the project can be found at: https://eatlas.org.au/nesp-twq-3/exploring-wq-trading-3-1-6 and metadata
+record https://eatlas.org.au/data/uuid/2c3ac619-75ad-4d6b-9142-4b1e79e8e7d8
+
 This work is available under Creative Commons licence 3.0 Attribution 
 (CC-BY) https://creativecommons.org/licenses/by/3.0/ R-Software to estimate minimum cost of supplying
 DIN credits from practice change in cane production in the Wet Tropics (NESP TWQ Hub: Project 3.1.6)
