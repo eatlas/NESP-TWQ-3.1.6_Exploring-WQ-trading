@@ -1,0 +1,8 @@
+Practice_Change	Farm_Type_1	Farm_Type_2	Farm_Type_3
+D_or_C_to_Bp	2300	625	250
+D_or_C_to_Bf	20450	13975	10250
+D_or_C_to_Af	40650	28825	21250
+Bp_to_Bf	18150	13350	10000
+Bp_to_Af	38350	28200	21000
+Bf_to_Af	20200	14850	11000
+

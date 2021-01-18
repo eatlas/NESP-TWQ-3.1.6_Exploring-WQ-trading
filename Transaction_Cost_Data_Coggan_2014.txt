@@ -1,0 +1,4 @@
+Practice_Change	Transaction_Cost
+C_to_A	8453
+C_to_B	9430
+D_to_C	8192
